@@ -2,7 +2,7 @@
 
 This repository gathers all pieces of codes we produced to analyse, predict the value and cluster the players from FIFA 23.
 
-# Objective
+## Objective
 
 The goal is to build both a regression model to predict a player's market value and a clustering model to see how the players are ranged per position.
 
